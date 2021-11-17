@@ -4,7 +4,7 @@ _Primera aplicación con las bases de Typescript y Angular en su última versió
 
 ## Pre-requisitos:
 
-Esta aplicación requiere Angular CLI v12 y Node para su correcta ejecucíón
+Esta aplicación requiere Angular CLI v12 y Node v16 para su correcta ejecucíón
 
 ## Ejecución
 
